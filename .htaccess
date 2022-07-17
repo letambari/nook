@@ -1,0 +1,6 @@
+# activate HTTPS
+RewriteEngine On
+# RewriteCond %{Server_Port} !=443
+# RewriteRule ^(.*)$ http://localhost/nook/$1 [R=301,L]
+
+RewriteRule ^home  home.php [NC,L]

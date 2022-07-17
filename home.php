@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Maniva-Meetup</title>
+    <title>NOOK FASHION HOUSE</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -92,35 +92,35 @@
             <div class="ds-table">
                 <div class="ds-table-cell">
                     <div class="tz_meetup_social">
-                        <span class="meetup_line_left"></span>
+                        <!-- <span class="meetup_line_left"></span>
                         <a href="https://www.facebook.com/templaza" target="_blank"><i class="fa fa-facebook"></i></a>
                         <a href="https://twitter.com/templazavn" target="_blank"><i class="fa fa-twitter"></i></a>
                         <a href="#" target="_blank"><i class="fa fa-camera-retro"></i></a>
                         <a href="https://plus.google.com/+Templaza/" target="_blank"><i class="fa fa-google-plus"></i></a>
                         <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
-                        <span class="meetup_line_right"></span>
+                        <span class="meetup_line_right"></span> -->
                     </div>
                     <div class="tz_meetup_slider_home_text">
-                        <p>8.MDA CONFERENCE AT LONDON ON 22-26 JUNE 2015</p>
-                        <h4>
-                            <strong>MDA</strong> CONFERENCE
+                        <!-- <h3>NOOK</h3> -->
+                        <h4 style="text-transform: capitalize;">
+                            <strong>Showing different dimentions</strong>
                         </h4>
                     </div>
-                    <div class="tz_meetup_countdown">
-                        <div id="clock"></div>
+                    <div>
+                        <p style="color:white; font-size: 20px"> of Fashion to the world.</p>
                     </div>
                     <div class="tz_slider_meetup_btn">
                         <ul class="tz_slider_home_btn_click">
                             <li>
                                 <a class="tz_slider_meetup_btn_1" href="#">
-                                    LEARN MORE
+                                REGISTER ME
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a class="tz_slider_meetup_btn_1 tz_slider_meetup_btn_2" href="#register">
                                     REGISTER ME
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -134,11 +134,11 @@
         <div class="container">
             <div class="row">
                 <div class="tz_maniva_meetup_title text-center">
-                    <h3 class="tz_meetup_title_raleway tz_title_meetup_normal"> WHAT ABOUT EVENT </h3>
+                    <h3 class="tz_meetup_title_raleway tz_title_meetup_normal"> VISION </h3>
                     <div class="tz_meetup_title_content">
-                        <p>MDA EarthSat periodically provides business conferences for both Energy and Agricultural clients</p>
-                        <p>ranging from day conferences to week-long conferences. Our goal is to make each conference an</p>
-                        <p>informative and valuable event for you, your company, and for our industry.</p>
+                        <p>Redefining fashion by promoting decency in dressing.</p>
+                        <p>To support and encourage the fashion industry by discovering upcoming models and designers.</p>
+                        <p>To showcase Port Harcourt and the Niger Delta to the World as a business hub.</p>
                     </div>
                 </div>
             </div>
@@ -207,23 +207,19 @@
                 <div class="tz_width_column tz_bk_video_meetup vc_column-inner">
                     <div class="tz_check_width_left_position tz_custom_width tz_custom_width_box_2">
                         <div class="tz_maniva_meetup_title tz_meetup_video_text text-right">
-                            <h3 class="tz_meetup_general_title">
-                                Content Marketing Institute:
-                                <em>Executive Forum</em>
+                            <h3 class="tz_meetup_general_title" style="text-align:left;">
+                            MISSION
                             </h3>
                             <div class="tz_image_title_meetup">
-                                <img alt="line" src="images/line-text1.jpg" />
+                                <img style="float:left;" alt="line" src="images/line-text1.jpg" />
                             </div>
-                            <span class="tz_meetup_video_sub_title">
-                                March 10-11, 2016 – Las Vegas, NV
-                                <i class="fa fa-clock-o"></i>
-                                <span class="tz_meetup_video_sub_title_line"></span>
-                            </span>
+                          
                             <div class="tz_meetup_content">
-                                <p>Content Marketing Institute: Executive Forum is an exclusive meeting of 50 global senior-level marketers in the discipline of content marketing. The event includes presentations from top marketing practitioners and thought leaders about what senior-level marketers need to know. At the two-day Executive Forum, CMI leaders and senior marketing executives from enterprise brands will come together to collaborate and to discuss and report on their own organizations’ efforts in integrating content marketing as a strategic approach.</p>
-                                <p>The Executive Forum is limited to senior-level marketers with a responsibility over some aspect of content marketing in their organizations. Company size limited to a minimum $100 million USD per year</p>
+                                <p style="text-align:left;">By using the NOOK brand as a name.<br>
+                                By gathering together all well meaning fashion enthusiasts to an annual or bi- annual fashion event.<br>
+                                Through advocacy, partnerships, promotions, sponsorships and training of upcoming models and designers.</p>
                             </div>
-                            <a class="tz_btn_video_meetup tz_meetup_default" target="_blank" href="index-2.html">DOWNLOAD BROCHURE</a>
+                            <!-- <a class="tz_btn_video_meetup tz_meetup_default" target="_blank" href="index-2.html">DOWNLOAD BROCHURE</a> -->
                         </div>
                     </div>
                 </div>
@@ -343,10 +339,11 @@
         <div class="tz_maniva_meetup_title tz_maniva_meetup_title_type3">
             <h3>
                 <span class="tz_title_line_left"></span>
-                DON’T MISS THIS
-                <em>AMAZING CONFERENCE</em>
-                AND
-                <em>OPPORTUNITIESSS!</em>
+                NOOK:
+                <em>NOTHING</em>
+                <em>OUTSIDE</em>
+                OF
+                <em>KNOWLEDGE.</em>
                 <span class="tz_title_line_right"></span>
             </h3>
         </div>
