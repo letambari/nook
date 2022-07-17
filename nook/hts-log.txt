@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Jul 2022 09:32:44 at http://html.meetup.templaza.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://html.meetup.templaza.net/ -O1 "C:\My Web Sites\nook" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.eot (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.eot? (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.woff2 (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.woff (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.ttf (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/fonts/glyphicons-halflings-regular.svg (from html.meetup.templaza.net/css/bootstrap.min.css)
+09:36:24	Error: 	"Not Found" (404) at link html.meetup.templaza.net/css/owl.video.play.png (from html.meetup.templaza.net/css/owl.carousel.min.css)
+09:37:15	Error: 	"Not Found" (404) at link html.meetup.templaza.net/js/library/jpreloader.min.js (from html.meetup.templaza.net/speakers.html)
+09:37:19	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link wordpress.templaza.net/wp-maniva/meetup/wp-content/uploads/2015/09/line-text1.jpg (from html.meetup.templaza.net/typography.html)
+09:37:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wordpress.templaza.net/wp-maniva/meetup/wp-content/uploads/2015/09/line-text1.jpg (from html.meetup.templaza.net/typography.html)
+09:37:19	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wordpress.templaza.net/wp-maniva/meetup/wp-content/uploads/2015/09/line-text1.jpg (from html.meetup.templaza.net/typography.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 35 seconds : 209 links scanned, 197 files written (7682033 bytes overall) [6884109 bytes received at 25033 bytes/sec], 982655 bytes transferred using HTTP compression in 13 files, ratio 10%, 3.3 requests per connection
+(9 errors, 2 warnings, 0 messages)
